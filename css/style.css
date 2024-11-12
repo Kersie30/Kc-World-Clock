@@ -1,11 +1,11 @@
 body {
-  background-color: #b1a8c7;
+  background-color: #cec9db;
   font-family: sans-serif;
 }
 .container {
   max-width: 600px;
   margin: 0 auto;
-  background: rgb(114, 185, 233);
+  background: rgb(206, 220, 230);
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px, 0px;
   border-radius: 10px;
@@ -30,7 +30,7 @@ select {
   padding: 10px;
   font-size: 18px;
   text-align: center;
-  background-color: aqua;
+  background-color: rgb(198, 243, 243);
 }
 .city {
   display: flex;
